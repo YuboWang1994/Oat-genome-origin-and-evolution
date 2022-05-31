@@ -1,4 +1,4 @@
-# Oat_snp_tree_pipeline
+# Snp tree pipeline
 
 For diploid species, the cleaned reads were mapped to the A, C, and D subgenomes of the ‘Sanfensan’ reference genome, and uniquely mapped reads were retained for variant calling. 
 
