@@ -1,4 +1,4 @@
-# Oat_evolution_pipeline
+# Subgenome evolution pipeline
 
 This pipeline is used for the subgenome evolution analysis for the allohexaploid oat
 
